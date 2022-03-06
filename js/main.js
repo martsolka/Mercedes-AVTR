@@ -3,8 +3,8 @@ $(function () {
         dots: false,
         slidesToShow: 4,
         variableWidth: true,
-        prevArrow: '<img src="/images/arrow-left.svg" alt="arrow prev" class="arrow arrow-left">',
-        nextArrow: '<img src="/images/arrow-right.svg" alt="arrow next" class="arrow arrow-right">',
+        prevArrow: '<img src="./images/arrow-left.svg" alt="arrow prev" class="arrow arrow-left">',
+        nextArrow: '<img src="./images/arrow-right.svg" alt="arrow next" class="arrow arrow-right">',
         responsive: [
             {
                 breakpoint: 361,
